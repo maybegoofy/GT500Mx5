@@ -1,51 +1,50 @@
 {47dcf37a-6a8d-4ef6-9f82-2e0398fa69f9} bank:/common
-{0866d50a-4902-4ecd-bc3a-fe3bae75ddc2} bank:/garage_dark
-{01a4acd5-640f-4282-a6b2-7394d3f5e8a9} bank:/hangar
-{54e23136-2c84-4e4f-adc0-538e7e72e5cf} bank:/industrial
-{4f6969ac-b7e1-45e5-84f1-31bc6f135357} bank:/showroom
-{2a5a4477-0c06-4a9b-ab0a-baaf52186fc3} bank:/sunset
-{e7a0a53c-47d9-43bc-b7b8-e52d665bb16f} event:/collisions/car/hit
-{30da2dc2-9c09-4556-8501-c6d54f63b689} event:/collisions/car/scrape
-{68d68373-2ebb-41cc-9825-fa6dcc0027c2} event:/collisions/object/hit
-{4bd6b486-ac12-483a-8e9e-4f587f8ec27f} event:/collisions/track/hit
-{e7c31cb2-ac8d-4a2a-abc0-855cf9dff82e} event:/collisions/track/scrape
-{4cc7ac44-8aaf-4473-91ea-aeca681ab958} event:/common/ambience
-{d1f12277-fe8f-4106-9fb2-3de595d54a1c} event:/common/dirt
-{f5666b9c-c659-459c-85bd-0eff6e92f7eb} event:/common/screw
-{deae65e4-a5a7-4810-8adb-277fe4a96aa3} event:/common/unscrew
-{e12a70e7-e6f0-4f8e-af53-0c06327a5a1d} event:/showrooms/garage_dark
-{378180d6-640f-40ef-90a0-c4bda57b37df} event:/showrooms/hangar
-{29246fa1-207d-44a5-8938-3592f26d38f6} event:/showrooms/industrial
-{f12c4de3-d817-4689-8985-f3a55d2274fc} event:/showrooms/showroom
-{b4184b4e-69e3-4699-af52-02f0783ec2ea} event:/showrooms/sunset
-{2cf5323a-2b34-4e01-ab6c-d0d6183d4ba7} event:/surfaces/extraturf
-{62b4885a-92af-4af5-9f6d-2a467ffa2e3f} event:/surfaces/grass
-{28e7a4ab-0e1c-4664-a7d8-b5fd89b024a0} event:/surfaces/gravel
-{599532a9-5dac-40b8-8458-b0d16f89699a} event:/surfaces/kerb
-{25b9a4aa-b8f7-4c53-ae28-0b98d81f732e} event:/surfaces/old
-{7aa66622-f8c0-45b0-9650-89f6fc14cab1} event:/surfaces/sand
-{c9bdf030-dda2-4d7c-9787-3dc4a166160c} event:/surfaces/tyre_rolling
+{7f8223e8-95d2-4e16-a90d-00f57d7947b9} bank:/GT500Mx5
+{08f6ba78-f576-4f9f-a232-47657d5fec19} bus:/
+{9e2b6406-bcd0-4f61-92a5-b3e5d68d4b97} bus:/grp_backfire_ext
+{477be05a-5cbd-468a-b1d8-637af58bba28} bus:/grp_backfire_int
+{b3c3876b-83aa-45d3-b43a-125adcb9a753} bus:/grp_bodywork
+{f915798f-0669-4379-b31a-6ec19e8af0ea} bus:/grp_collisions
+{559b9037-dd6c-4120-9373-477d07717f9e} bus:/grp_door
+{5206e42b-ae8f-49f6-b059-d613b2947b49} bus:/grp_engine_ext
+{db9dca15-49f5-4c00-93ca-e76ccaf1160e} bus:/grp_engine_int
+{c9a0a35d-dcc0-4002-ae01-5487466de9f8} bus:/grp_gear_ext
+{f09ce222-1e68-42a9-9e16-fcb45004fcb3} bus:/grp_gear_int
+{c89669bc-901a-4b52-91b7-46a85014ee0d} bus:/grp_horn
+{37b936f8-165c-484d-a2f5-d06ae99a0822} bus:/grp_limiter
+{81c0ee3a-2fd8-4e25-b775-eb7845ca644f} bus:/grp_skid_ext
+{37bf169d-f171-4af4-a924-d65a1f998264} bus:/grp_skid_int
+{ce5395d1-28c9-4dcc-90bd-051528b365d3} bus:/grp_surfaces
+{9d0c46e7-d738-480e-8d5f-b5fb315a701a} bus:/grp_tractioncontrol_ext
+{dcf6df4b-a019-4819-97e4-d1b3ed67e4b1} bus:/grp_tractioncontrol_int
+{dba03e3d-9c12-43da-a5b9-9c79b7673c7f} bus:/grp_transmission
+{35927822-c7cf-43ab-b6a2-447a4386450e} bus:/grp_turbo
+{b7b6c398-22ee-465a-a6df-42861188e195} bus:/grp_wheel_closed
+{208daf59-324a-4a13-994e-d284dac196ce} bus:/grp_wheel_open
+{bec567db-3040-4ca9-82f7-75f072ab68c8} bus:/grp_wind_closed
+{1c1f5d35-07d5-4d6f-b916-cd0eb4adfd60} bus:/grp_wind_open
+{e2cb3545-3451-40c2-82c1-377f094b79a7} event:/cars/GT500Mx5/backfire_ext
+{96e7b78e-9830-495a-a4d4-f8298dded2ab} event:/cars/GT500Mx5/backfire_int
+{e79e118a-b630-4210-8f81-4cc105bf7a10} event:/cars/GT500Mx5/bodywork
+{603dc6f4-c8ba-44b7-9bbd-3d7f2b8d912a} event:/cars/GT500Mx5/door
+{0c7078b6-cd03-4f8f-9ea7-480e1612dad3} event:/cars/GT500Mx5/engine_ext
+{4496327c-5062-4f47-8ae8-5e9c858326c9} event:/cars/GT500Mx5/engine_int
+{d6f6f7de-3a15-4ffd-ad09-2ced09b919e8} event:/cars/GT500Mx5/gear_ext
+{e52b4a4a-b052-4430-bc95-cdac1489cde8} event:/cars/GT500Mx5/gear_grind
+{1a55adc9-0e9d-4da3-9452-d11b86511f7c} event:/cars/GT500Mx5/gear_int
+{f62b2e20-8100-4771-b775-be882e475b4b} event:/cars/GT500Mx5/horn
+{486c193b-9da4-4fb5-881d-5f4a4885fddd} event:/cars/GT500Mx5/limiter
+{56d28606-0cf0-45be-becb-9a47dfd60f1c} event:/cars/GT500Mx5/skid_ext
+{72c596fe-0098-4f7c-a037-5d034b8883ff} event:/cars/GT500Mx5/skid_int
+{1ea7adfa-8718-4832-9c45-355f5c41bd3c} event:/cars/GT500Mx5/tractioncontrol_ext
+{d2117e5e-21d1-40b4-a908-e6b4867d8985} event:/cars/GT500Mx5/tractioncontrol_int
+{e4fe5890-f73f-474d-b784-821f695a4e1f} event:/cars/GT500Mx5/transmission
+{611d8ba7-e9f8-453e-8cc3-8aa01d792800} event:/cars/GT500Mx5/wheel
+{81907ac6-49bc-49e9-b467-f28718e2b167} event:/cars/GT500Mx5/wind
 {94f04703-a92c-49cf-a097-734f3e79ec08} vca:/vca_engine_ext
 {ff157bb9-ecc1-49da-ad82-5e42fecb2ac9} vca:/vca_engine_int
 {f8b9d9e5-bd29-4a82-a1a0-66e8b9059ccb} vca:/vca_skid
 {45401f11-f5bd-429f-afb6-710deda49e32} vca:/vca_surfaces
 {a61eba16-8f14-4a39-8ffd-c573cfdc0dbd} vca:/vca_transmission
 {185673e8-d3ed-434c-acd4-61c819bb209c} vca:/vca_wind
-{6f37a9a6-77e1-49ad-8026-ef8d5180b66d} event:/cars/ks_mazda_mx5_cup_GT500/backfire_ext 
-{04963262-5e8a-4e28-abc1-ee2a3b86b890} event:/cars/ks_mazda_mx5_cup_GT500/backfire_int 
-{59b93785-e9a6-492b-8a72-1823605f28c1} event:/cars/ks_mazda_mx5_cup_GT500/bodywork 
-{5def7311-0409-46b8-90d9-797812b48920} event:/cars/ks_mazda_mx5_cup_GT500/door 
-{0f391af5-3212-4e77-88ba-78199d235332} event:/cars/ks_mazda_mx5_cup_GT500/engine_ext 
-{e13c4bfc-3957-4b84-b57e-911c6b3b1559} event:/cars/ks_mazda_mx5_cup_GT500/engine_int 
-{91809ada-b9a7-4841-9c7d-15f07a148ee5} event:/cars/ks_mazda_mx5_cup_GT500/gear_ext 
-{f551714b-4d9b-4691-aa09-c404cfa87507} event:/cars/ks_mazda_mx5_cup_GT500/gear_grind 
-{81f307e9-4669-46cb-bf8a-a1dfffe5de1a} event:/cars/ks_mazda_mx5_cup_GT500/gear_int 
-{228e1622-47b8-4a0c-a0c8-460a2c0f7782} event:/cars/ks_mazda_mx5_cup_GT500/horn 
-{e84129f4-66e3-4bed-80f2-c4320e1ff610} event:/cars/ks_mazda_mx5_cup_GT500/limiter 
-{506d030c-8831-474c-914a-91c9b3c9d05f} event:/cars/ks_mazda_mx5_cup_GT500/skid_ext 
-{2454e8ca-92b6-4a56-9ad5-597d9a001ede} event:/cars/ks_mazda_mx5_cup_GT500/skid_int 
-{45660af2-189a-4649-9613-c5248fc76deb} event:/cars/ks_mazda_mx5_cup_GT500/tractioncontrol_ext 
-{a9461bed-042c-46fe-8c32-a7082b425a75} event:/cars/ks_mazda_mx5_cup_GT500/tractioncontrol_int 
-{cbc2037e-1451-4ac9-95e1-5e0db56d9dde} event:/cars/ks_mazda_mx5_cup_GT500/transmission 
-{cb7cffdb-3d2c-4545-825b-566718c93b57} event:/cars/ks_mazda_mx5_cup_GT500/wheel 
-{ad4b8c69-c15f-4ec9-bde0-ef6b4303ff91} event:/cars/ks_mazda_mx5_cup_GT500/wind 
+{7f8223e8-95d2-4e16-a90d-00f57d7947b9} bank:/gt500mx5

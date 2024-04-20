@@ -2,8 +2,8 @@
   "brand": "Mazda",
   "class": "race",
   "description": " The Mazda MX-5 Miata is famous to be a highly capable racing platform; it's known to be the best-selling roadster in the world, buts some even claim that this model is the most road-raced car in the world.<br><br> Mazda seems to seriously agree with them so, starting in 2016, there will be multiple Mazda Global MX-5 Cup series around the world, all using the same prepared 4th-generation model.",
-  "name": "Mazda MX5 Cup GT500 noob_model_2_trim_2",
-  "parent": "GT500Mx5",
+  "name": "Mazda MX5 Cup GT500",
+  "parent": "ks_mazda_mx5_cup",
   "powerCurve": [
     [
       "1600",
