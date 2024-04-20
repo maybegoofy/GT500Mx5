@@ -1,6 +1,7 @@
 {
 
-	"name": "Mazda MX5 Cup",
+	"name": "Mazda MX5 Cup GT500", 
+ 	"parent": "ks_mazda_mx5_cup",
 	"brand": "Mazda",
 	"description": "
 The Mazda MX-5 Miata is famous to be a highly capable racing platform; it's known to be the best-selling roadster in the world, buts some even claim that this model is the most road-raced car in the world.<br><br>
